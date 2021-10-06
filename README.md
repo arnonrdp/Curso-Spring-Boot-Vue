@@ -1,24 +1,13 @@
-# vue-frontend
+# Spring Boot + Vue
+## Front-End + Back-End
 
 ## Project setup
+Run back-end at:
+> src/main/java/net/javaguides/springboot/SpringbootBackendApplication.java
+
+Run front-end at the terminal:
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Terminal running back-end and front-end](./public/terminal.png)
